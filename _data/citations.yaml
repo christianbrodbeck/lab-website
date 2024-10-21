@@ -1,247 +1,464 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1093/nar/gkad1082
-  title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
-    \ genes\_and diseases across species"
+- id: doi:10.1101/2024.02.20.580731
+  title: Recurrent neural networks as neuro-computational models of human speech recognition
   authors:
-  - Tim E Putman
-  - Kevin Schaper
-  - Nicolas Matentzoglu
-  - "Vincent\_P Rubinetti"
-  - "Faisal\_S Alquaddoomi"
-  - Corey Cox
-  - J Harry Caufield
-  - Glass Elsarboukh
-  - Sarah Gehrke
-  - Harshad Hegde
-  - "Justin\_T Reese"
-  - Ian Braun
-  - "Richard\_M Bruskiewich"
-  - Luca Cappelletti
-  - Seth Carbon
-  - "Anita\_R Caron"
-  - "Lauren\_E Chan"
-  - "Christopher\_G Chute"
-  - "Katherina\_G Cortes"
-  - "Vin\xEDcius De\_Souza"
-  - Tommaso Fontana
-  - "Nomi\_L Harris"
-  - "Emily\_L Hartley"
-  - Eric Hurwitz
-  - "Julius\_O B Jacobsen"
-  - Madan Krishnamurthy
-  - "Bryan\_J Laraway"
-  - "James\_A McLaughlin"
-  - "Julie\_A McMurry"
-  - "Sierra\_A T Moxon"
-  - "Kathleen\_R Mullen"
-  - "Shawn\_T O\u2019Neil"
-  - "Kent\_A Shefchek"
-  - Ray Stefancsik
-  - Sabrina Toro
-  - "Nicole\_A Vasilevsky"
-  - "Ramona\_L Walls"
-  - "Patricia\_L Whetzel"
-  - David Osumi-Sutherland
-  - Damian Smedley
-  - "Peter\_N Robinson"
-  - "Christopher\_J Mungall"
-  - "Melissa\_A Haendel"
-  - "Monica\_C Munoz-Torres"
-  publisher: Nucleic Acids Research
-  date: '2023-11-24'
-  link: https://doi.org/gs6kmr
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2023.10.11.560955
-  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
-  authors:
-  - Richard J. Abdill
-  - Samantha P. Graham
-  - Vincent Rubinetti
-  - Frank W. Albert
-  - Casey S. Greene
-  - Sean Davis
-  - Ran Blekhman
+  - Christian Brodbeck
+  - Thomas Hannagan
+  - James S. Magnuson
   publisher: Cold Spring Harbor Laboratory
-  date: '2023-10-11'
-  link: https://doi.org/gsvf5z
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
-  authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
-  authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
-  authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2022.02.18.461833
-  title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
-    and phylogeny'
-  authors:
-  - Jacob D Krol
-  - Joseph T Burke
-  - Samuel Z Chen
-  - Lo M Sosinski
-  - Faisal S Alquaddoomi
-  - Evan P Brenner
-  - Ethan P Wolfe
-  - Vincent P Rubinetti
-  - Shaddai Amolitos
-  - Kellen M Reason
-  - John B Johnston
-  - Janani Ravi
-  publisher: Cold Spring Harbor Laboratory
-  date: '2022-02-22'
-  link: https://doi.org/gstx7j
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
-  authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2020-12-04'
-  link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
+  date: '2024-02-22'
+  link: https://doi.org/g8k46b
+  orcid: 0000-0001-8380-639X
   plugin: sources.py
   file: sources.yaml
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    text: Manuscript Source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
-  tags:
-  - open science
-  - collaboration
-  repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
+  image: https://www.biorxiv.org/content/biorxiv/early/2024/02/22/2024.02.20.580731/F1.large.jpg
+- id: doi:10.1101/2024.02.02.578603
+  title: 'Neural Dynamics of the Processing of Speech Features: Evidence for a Progression
+    of Features from Acoustic to Sentential Processing'
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
+  - I.M Dushyanthi Karunathilake
+  - Christian Brodbeck
+  - Shohini Bhattasali
+  - Philip Resnik
+  - Jonathan Z. Simon
   publisher: Cold Spring Harbor Laboratory
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
+  date: '2024-02-02'
+  link: https://doi.org/g5qcv3
+  orcid: 0000-0001-8380-639X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
+- id: doi:10.1523/jneurosci.0666-23.2023
+  title: Neural Representations of Non-native Speech Reflect Proficiency and Interference
+    from Native Language Knowledge
   authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-01-01'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
+  - Christian Brodbeck
+  - Katerina Danae Kandylaki
+  - Odette Scharenborg
+  publisher: The Journal of Neuroscience
+  date: '2023-11-14'
+  link: https://doi.org/g8nmjn
+  orcid: 0000-0001-8380-639X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.7554/eLife.85012
+  title: Eelbrain, a Python toolkit for time-continuous analysis with temporal response
+    functions
   authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
+  - Christian Brodbeck
+  - Proloy Das
+  - Marlies Gillis
+  - Joshua P Kulasingham
+  - Shohini Bhattasali
+  - Phoebe Gaston
+  - Philip Resnik
+  - Jonathan Z Simon
   publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+  date: '2023-11-29'
+  link: https://doi.org/gs7hk9
+  orcid: 0000-0001-8380-639X
   plugin: sources.py
   file: sources.yaml
+  image: images/eelbrain.png
+  buttons:
+  - type: source
+    text: Source Code
+    link: https://github.com/Eelbrain/Alice
+  - type: website
+    text: Eelbrain Website
+    link: http://eelbrain.readthedocs.io/
+- id: doi:10.1162/nol_a_00084
+  title: Auditory Word Comprehension Is Less Incremental in Isolated Words
+  authors:
+  - Phoebe Gaston
+  - Christian Brodbeck
+  - Colin Phillips
+  - Ellen Lau
+  publisher: Neurobiology of Language
+  date: '2023-01-01'
+  link: https://doi.org/gszkdm
+  orcid: 0000-0001-8380-639X
+  plugin: sources.py
+  file: sources.yaml
+  image: https://mitp.silverchair-cdn.com/mitp/content_public/journal/nol/4/1/10.1162_nol_a_00084/1/m_nol_a_00084_f003.png?Expires=1732016114&Signature=yRD~bdySfBEY-c8GhCSLNio3TqeV6GI8Zox3Qk~sVUs2kJ~nz1~WtzeayRDxzR5YdEEGUlecnMiFPglRxtZ1G-GqHvRbHDW7m929w280I-j~OksoRo-hJDQgrwhIJE6sN-zHy~AMTAyJk4k-OAWBOc7-5NAs9eeCV6NbSC7iWtCeUlQHGZlarlDL09gI-409HAcj53eaMG2tmxEs~SY03W4ezft8coMCm81Kz7xyl8B4TyOh9G9ah1Ia6wbNDgYAYh-YcAtm9yMrXBbcLzPqPdjPhIbQ4UKutUGYalrt7cODlkiWVaQnNdLWDmUHyWjNoHKz-7IFnWCpi0gQciR8sw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+- id: doi:10.1016/j.heares.2023.108856
+  title: Cortical networks for recognition of speech with simultaneous talkers
+  authors:
+  - Christian Herrera
+  - Nicole Whittle
+  - Marjorie R. Leek
+  - Christian Brodbeck
+  - Grace Lee
+  - Caleb Barcenas
+  - Samuel Barnes
+  - Barbara Holshouser
+  - Alex Yi
+  - Jonathan H. Venezia
+  publisher: Hearing Research
+  date: '2023-09-01'
+  link: https://doi.org/g8nmbm
+  orcid: 0000-0001-8380-639X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2022.10.29.514344
+  title: Cortical tracking of continuous speech under bimodal divided attention
+  authors:
+  - Zilong Xie
+  - Christian Brodbeck
+  - Bharath Chandrasekaran
+  publisher: Cold Spring Harbor Laboratory
+  date: '2022-10-30'
+  link: https://doi.org/g8nmbn
+  orcid: 0000-0001-8380-639X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.neuropsychologia.2022.108224
+  title: 'Examining the context benefit in older adults: A combined behavioral-electrophysiologic
+    word identification study'
+  authors:
+  - Rebecca E. Bieber
+  - Christian Brodbeck
+  - Samira Anderson
+  publisher: Neuropsychologia
+  date: '2022-06-01'
+  link: https://doi.org/g8nmbp
+  orcid: 0000-0001-8380-639X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.7554/eLife.72056
+  title: Parallel processing in speech perception with local and global representations
+    of linguistic context
+  authors:
+  - Christian Brodbeck
+  - Shohini Bhattasali
+  - Aura AL Cruz Heredia
+  - Philip Resnik
+  - Jonathan Z Simon
+  - Ellen Lau
+  publisher: eLife
+  date: '2022-01-21'
+  link: https://doi.org/gpdq3n
+  orcid: 0000-0001-8380-639X
+  plugin: sources.py
+  file: sources.yaml
+  image: https://iiif.elifesciences.org/lax/72056%2Felife-72056-fig8-v3.tif/full/full/0/default.jpg
+  description: Prediction is thought to play a central role in efficient speech processing.
+    We used MEG responses to continuous speech to distinguish between competing theories
+    of how such predictions are implemented neurally. We found evidence for multiple
+    predictive models that are engaged in parallel.
+  buttons:
+  - type: data
+    text: Data
+    link: https://doi.org/10.5061/dryad.nvx0k6dv0
+- id: doi:10.3389/fneur.2022.819603
+  title: Bilaterally Reduced Rolandic Beta Band Activity in Minor Stroke Patients
+  authors:
+  - Joshua P. Kulasingham
+  - Christian Brodbeck
+  - Sheena Khan
+  - Elisabeth B. Marsh
+  - Jonathan Z. Simon
+  publisher: Frontiers in Neurology
+  date: '2022-03-28'
+  link: https://doi.org/g8nmjp
+  orcid: 0000-0001-8380-639X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3389/fnins.2022.828546
+  title: Cortical tracking of voice pitch in the presence of multiple speakers depends
+    on selective attention
+  authors:
+  - Christian Brodbeck
+  - Jonathan Z. Simon
+  publisher: Frontiers in Neuroscience
+  date: '2022-08-08'
+  link: https://doi.org/g8nmbq
+  orcid: 0000-0001-8380-639X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1523/JNEUROSCI.0812-21.2021
+  title: 'Neural Markers of Speech Comprehension: Measuring EEG Tracking of Linguistic
+    Speech Representations, Controlling the Speech Acoustics'
+  authors:
+  - Marlies Gillis
+  - Jonas Vanthornhout
+  - Jonathan Z. Simon
+  - Tom Francart
+  - Christian Brodbeck
+  publisher: The Journal of Neuroscience
+  date: '2021-11-03'
+  link: https://doi.org/gnpgdr
+  orcid: 0000-0001-8380-639X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2021.05.28.445987
+  title: An Investigation of Neural Mechanisms Underlying Verb Morphology Deficits
+    in Aphasia
+  authors:
+  - Madeline Pifer
+  - Christian Brodbeck
+  - Yasmeen Faroqi-Shah
+  publisher: Cold Spring Harbor Laboratory
+  date: '2021-05-30'
+  link: https://doi.org/g8nmbv
+  orcid: 0000-0001-8380-639X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3758/s13423-021-01924-x
+  title: Does signal reduction imply predictive coding in models of spoken word recognition?
+  authors:
+  - Sahil Luthra
+  - Monica Y. C. Li
+  - Heejo You
+  - Christian Brodbeck
+  - James S. Magnuson
+  publisher: Psychonomic Bulletin &amp; Review
+  date: '2021-04-14'
+  link: https://doi.org/g8nmbw
+  orcid: 0000-0001-8380-639X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1073/pnas.2013231117
+  title: Poststroke acute dysexecutive syndrome, a disorder resulting from minor stroke
+    due to disruption of network dynamics
+  authors:
+  - Elisabeth B. Marsh
+  - Christian Brodbeck
+  - Rafael H. Llinas
+  - Dania Mallick
+  - Joshua P. Kulasingham
+  - Jonathan Z. Simon
+  - "Rodolfo R. Llin\xE1s"
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2020-12-14'
+  link: https://doi.org/g8nmbx
+  orcid: 0000-0001-8380-639X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.cophys.2020.07.014
+  title: Continuous speech processing
+  authors:
+  - Christian Brodbeck
+  - Jonathan Z Simon
+  publisher: Current Opinion in Physiology
+  date: '2020-12-01'
+  link: https://doi.org/ghd8pt
+  orcid: 0000-0001-8380-639X
+  plugin: sources.py
+  file: sources.yaml
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S2468867320300766-gr1.jpg
+  description: Short review of brain responses to continuous speech ("speech tracking"),
+    with a focus on MEG/EEG.
+- id: doi:10.1016/j.neuroimage.2020.117291
+  title: High gamma cortical processing of continuous speech in younger and older
+    listeners
+  authors:
+  - Joshua P. Kulasingham
+  - Christian Brodbeck
+  - Alessandro Presacco
+  - Stefanie E. Kuchinsky
+  - Samira Anderson
+  - Jonathan Z. Simon
+  publisher: NeuroImage
+  date: '2020-11-01'
+  link: https://doi.org/ghwvhh
+  orcid: 0000-0001-8380-639X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pbio.3000883
+  title: 'Neural speech restoration at the cocktail party: Auditory cortex recovers
+    masked speech of both attended and ignored speakers'
+  authors:
+  - Christian Brodbeck
+  - Alex Jiao
+  - L. Elliot Hong
+  - Jonathan Z. Simon
+  publisher: PLOS Biology
+  date: '2020-10-22'
+  link: https://doi.org/gkrbfp
+  orcid: 0000-0001-8380-639X
+  plugin: sources.py
+  file: sources.yaml
+  image: https://journals.plos.org/plosbiology/article/figure/image?size=inline&id=10.1371/journal.pbio.3000883.g005
+- id: doi:10.1016/j.neuroimage.2020.116528
+  title: 'Neuro-current response functions: A unified approach to MEG source analysis
+    under the continuous stimuli paradigm'
+  authors:
+  - Proloy Das
+  - Christian Brodbeck
+  - Jonathan Z. Simon
+  - Behtash Babadi
+  publisher: NeuroImage
+  date: '2020-05-01'
+  link: https://doi.org/ghqxqt
+  orcid: 0000-0001-8380-639X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/hbm.24403
+  title: "The temporal dynamics of structure and content in sentence comprehension:\
+    \ Evidence from fMRI\u2010constrained MEG"
+  authors:
+  - William Matchin
+  - Christian Brodbeck
+  - Christopher Hammerly
+  - Ellen Lau
+  publisher: Human Brain Mapping
+  date: '2018-09-26'
+  link: https://doi.org/gg6xjq
+  orcid: 0000-0001-8380-639X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.cub.2018.10.042
+  title: Rapid Transformation from Auditory to Linguistic Representations of Continuous
+    Speech
+  authors:
+  - Christian Brodbeck
+  - L. Elliot Hong
+  - Jonathan Z. Simon
+  publisher: Current Biology
+  date: '2018-12-01'
+  link: https://doi.org/gf3q2j
+  orcid: 0000-0001-8380-639X
+  plugin: sources.py
+  file: sources.yaml
+  description: We isolated brain responses related to the transformation from acoustic
+    to linguistic representations of continuous speech by modeling word recognition
+    with information theory. We then demonstrate that, in the presence of multiple
+    talkers, only attended speech is processed lexically. This is evidence against
+    the hypothesis that words in background speech are processed preconsciously.
+- id: doi:10.1101/294017
+  title: Increased speech representation in older adults originates from early response
+    in higher order auditory cortex
+  authors:
+  - Christian Brodbeck
+  - Alessandro Presacco
+  - Samira Anderson
+  - Jonathan Z. Simon
+  publisher: Cold Spring Harbor Laboratory
+  date: '2018-04-03'
+  link: https://doi.org/gk3cpz
+  orcid: 0000-0001-8380-639X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.neuroimage.2018.01.042
+  title: 'Neural source dynamics of brain responses to continuous stimuli: Speech
+    processing from acoustics to comprehension'
+  authors:
+  - Christian Brodbeck
+  - Alessandro Presacco
+  - Jonathan Z. Simon
+  publisher: NeuroImage
+  date: '2018-05-01'
+  link: https://doi.org/gdgj84
+  orcid: 0000-0001-8380-639X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ACSSC.2018.8645204
+  title: Cortical Localization of the Auditory Temporal Response Function from MEG
+    via Non-convex Optimization
+  authors:
+  - Proloy Das
+  - Christian Brodbeck
+  - Jonathan Z. Simon
+  - Behtash Babadi
+  publisher: 2018 52nd Asilomar Conference on Signals, Systems, and Computers
+  date: '2018-10-01'
+  link: https://doi.org/g8njf9
+  orcid: 0000-0001-8380-639X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.neuroimage.2016.12.006
+  title: 'Language in context: Characterizing the comprehension of referential expressions
+    with MEG'
+  authors:
+  - Christian Brodbeck
+  - "Liina Pylkk\xE4nen"
+  publisher: NeuroImage
+  date: '2017-02-01'
+  link: https://doi.org/gg6xnb
+  orcid: 0000-0001-8380-639X
+  plugin: sources.py
+  file: sources.yaml
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1053811916307169-gr3.jpg
+- id: doi:10.1101/229153
+  title: Neural Coding of Noisy and Reverberant Speech in Human Auditory Cortex
+  authors:
+  - Krishna C Puvvada
+  - "Marisel Villafa\xF1e-Delgado"
+  - Christian Brodbeck
+  - Jonathan Z Simon
+  publisher: Cold Spring Harbor Laboratory
+  date: '2017-12-04'
+  link: https://doi.org/gkw5g2
+  orcid: 0000-0001-8380-639X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1523/ENEURO.0145-16.2016
+  title: 'Language in Context: MEG Evidence for Modality-General and -Specific Responses
+    to Reference Resolution'
+  authors:
+  - Christian Brodbeck
+  - Laura Gwilliams
+  - "Liina Pylkk\xE4nen"
+  publisher: eneuro
+  date: '2016-11-01'
+  link: https://doi.org/gtc75j
+  orcid: 0000-0001-8380-639X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3389/fpsyg.2015.01787
+  title: EEG can Track the Time Course of Successful Reference Resolution in Small
+    Visual Worlds
+  authors:
+  - Christian Brodbeck
+  - Laura Gwilliams
+  - "Liina Pylkk\xE4nen"
+  publisher: Frontiers in Psychology
+  date: '2015-11-20'
+  link: https://doi.org/g8k2sr
+  orcid: 0000-0001-8380-639X
+  plugin: sources.py
+  file: sources.yaml
+  image: https://www.frontiersin.org/files/Articles/163896/fpsyg-06-01787-HTML/image_m/fpsyg-06-01787-g001.jpg
+- id: doi:10.1016/j.neuroimage.2013.10.027
+  title: MNE software for processing MEG and EEG data
+  authors:
+  - Alexandre Gramfort
+  - Martin Luessi
+  - Eric Larson
+  - Denis A. Engemann
+  - Daniel Strohmeier
+  - Christian Brodbeck
+  - Lauri Parkkonen
+  - "Matti S. H\xE4m\xE4l\xE4inen"
+  publisher: NeuroImage
+  date: '2014-02-01'
+  link: https://doi.org/f5qq9z
+  orcid: 0000-0001-8380-639X
+  plugin: sources.py
+  file: sources.yaml
+  image: https://mne.tools/stable/_images/mne_logo.svg
+- id: doi:10.3389/fnins.2013.00267
+  title: MEG and EEG data analysis with MNE-Python
+  authors:
+  - Alexandre Gramfort
+  publisher: Frontiers in Neuroscience
+  date: '2013-01-01'
+  link: https://doi.org/gdvhvz
+  orcid: 0000-0001-8380-639X
+  plugin: sources.py
+  file: sources.yaml
+  image: https://mne.tools/stable/_images/mne_logo.svg
+- id: doi:10.1371/journal.pone.0022759
+  title: Skin Conductance Response to the Pain of Others Predicts Later Costly Helping
+  authors:
+  - Grit Hein
+  - Claus Lamm
+  - Christian Brodbeck
+  - Tania Singer
+  publisher: PLoS ONE
+  date: '2011-08-03'
+  link: https://doi.org/d8tnbr
+  orcid: 0000-0001-8380-639X
+  plugin: orcid.py
+  file: orcid.yaml

@@ -7,10 +7,10 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+We are looking for post-docs, graduate students and a full time research assistant to work on multiple projects. 
+For more details, check out the projects with open positions.
 
-{% include tags.html tags="publication, resource, website" %}
+{% include tags.html tags="open positions, software, speech perception" %}
 
 {% include search-info.html %}
 

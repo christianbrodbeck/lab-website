@@ -1,23 +1,45 @@
-- id: doi:10.1371/journal.pcbi.1007128
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  date: 2020-12-4
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
+- id: doi:10.1016/j.cophys.2020.07.014
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S2468867320300766-gr1.jpg
+  description: Short review of brain responses to continuous speech ("speech tracking"), with a focus on MEG/EEG.
+
+- id: doi:10.7554/eLife.72056
+  image: https://iiif.elifesciences.org/lax/72056%2Felife-72056-fig8-v3.tif/full/full/0/default.jpg
+  description: Prediction is thought to play a central role in efficient speech processing. We used MEG responses to continuous speech to distinguish between competing theories of how such predictions are implemented neurally. We found evidence for multiple predictive models that are engaged in parallel.
   buttons:
-    - type: manubot
-      link: https://greenelab.github.io/meta-review/
+    - type: data
+      text: Data
+      link: https://doi.org/10.5061/dryad.nvx0k6dv0
+
+- id: doi:10.7554/eLife.85012
+  image: images/eelbrain.png
+  buttons:
     - type: source
-      text: Manuscript Source
-      link: https://github.com/greenelab/meta-review
+      text: Source Code
+      link: https://github.com/Eelbrain/Alice
     - type: website
-      link: http://manubot.org/
-  tags:
-    - open science
-    - collaboration
-  repo: greenelab/meta-review
+      text: Eelbrain Website
+      link: http://eelbrain.readthedocs.io/
 
-- id: doi:10.1016/j.csbj.2020.05.017
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+- id: doi:10.1101/2024.02.20.580731
+  image: https://www.biorxiv.org/content/biorxiv/early/2024/02/22/2024.02.20.580731/F1.large.jpg
 
-- id: doi:10.7554/eLife.32822
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+- id: doi:10.1162/nol_a_00084
+  image: https://mitp.silverchair-cdn.com/mitp/content_public/journal/nol/4/1/10.1162_nol_a_00084/1/m_nol_a_00084_f003.png?Expires=1732016114&Signature=yRD~bdySfBEY-c8GhCSLNio3TqeV6GI8Zox3Qk~sVUs2kJ~nz1~WtzeayRDxzR5YdEEGUlecnMiFPglRxtZ1G-GqHvRbHDW7m929w280I-j~OksoRo-hJDQgrwhIJE6sN-zHy~AMTAyJk4k-OAWBOc7-5NAs9eeCV6NbSC7iWtCeUlQHGZlarlDL09gI-409HAcj53eaMG2tmxEs~SY03W4ezft8coMCm81Kz7xyl8B4TyOh9G9ah1Ia6wbNDgYAYh-YcAtm9yMrXBbcLzPqPdjPhIbQ4UKutUGYalrt7cODlkiWVaQnNdLWDmUHyWjNoHKz-7IFnWCpi0gQciR8sw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+
+- id: doi:10.1371/journal.pbio.3000883
+  image: https://journals.plos.org/plosbiology/article/figure/image?size=inline&id=10.1371/journal.pbio.3000883.g005
+
+- id: doi:10.1016/j.cub.2018.10.042
+  description: We isolated brain responses related to the transformation from acoustic to linguistic representations of continuous speech by modeling word recognition with information theory. We then demonstrate that, in the presence of multiple talkers, only attended speech is processed lexically. This is evidence against the hypothesis that words in background speech are processed preconsciously.
+
+- id: doi:10.1016/j.neuroimage.2016.12.006
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1053811916307169-gr3.jpg
+
+- id: doi:10.3389/fpsyg.2015.01787
+  image: https://www.frontiersin.org/files/Articles/163896/fpsyg-06-01787-HTML/image_m/fpsyg-06-01787-g001.jpg
+
+- id: doi:10.1016/j.neuroimage.2013.10.027
+  image: https://mne.tools/stable/_images/mne_logo.svg
+
+- id: doi:10.3389/fnins.2013.00267
+  image: https://mne.tools/stable/_images/mne_logo.svg

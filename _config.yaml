@@ -1,19 +1,17 @@
 # site properties and page defaults
-title: christianbrodbeckDESCRIPTION=An engaging 1-3 sentence description of your lab.
-subtitle: 
-description: 
+title: Brodbeck Lab
+subtitle: McMaster University
+description: Christian Brodbeck Lab at McMaster University
 header: images/background.jpg
 footer: images/background.jpg
 proofer: false
 
 # site social media and other links
 links:
-  email: contact@christianbrodbeckDESCRIPTION=An engaging 1-3 sentence description of your lab..com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
-  github: christianbrodbeckDESCRIPTION=An engaging 1-3 sentence description of your lab.
-  twitter: christianbrodbeckDESCRIPTION=An engaging 1-3 sentence description of your lab.
-  youtube: christianbrodbeckDESCRIPTION=An engaging 1-3 sentence description of your lab.
+  email: brodbecc@mcmaster.ca
+  orcid: 0000-0001-8380-639X
+  google-scholar: m2x515IAAAAJ
+  github: christianbrodbeck
 
 ### jekyll settings
 

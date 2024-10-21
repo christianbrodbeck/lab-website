@@ -1,47 +1,28 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+- title: User-friendly open-source pipeline for anatomically precise analysis of single-trial M/EEG
+  subtitle:
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
-
-- title: Cool Package
-  subtitle: a subtitle
-  group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
-
-- title: Cool Tutorial
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
-    - publication
-
-- title: Cool Web App
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  image: images/NCRF-Paradigm.png
+  link: projects/ncrf
+  description: Develop an analysis pipeline for electrophysiological data (primarily MEG and EEG), to unveil how the human brain encodes complex and natural stimuli.
   tags:
     - software
+    - open positions
 
-- title: Cool Web Server
-  subtitle: a subtitle
+- title: Neural Mechanisms Underlying Linguistic Context Use for Speech Processing in Aging
+  subtitle:
+  group: featured
   image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  link: projects/context-use
+  description: Investigate how the ability to use context for speech recognition changes with age, using EEG and fMRI.
+  tags:
+    - speech perception
+    - open positions
+
+- title: Eelbrain
+  subtitle: Open-source Python toolkit for MEG and EEG data analysis.
+  image: images/eelbrain.png
+  link: http://eelbrain.readthedocs.io/
+  description: Check out the recent [eLife article](https://doi.org/10.7554/eLife.85012) on TRF analysis.
+  repo: https://github.com/christianbrodbeck/Eelbrain
   tags:
     - software
