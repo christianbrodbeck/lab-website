@@ -1,1 +1,1 @@
-Sitemap: https://christianbrodbeck.github.io/lab-website/sitemap.xml
+Sitemap: http://christianbrodbeck.net/sitemap.xml
