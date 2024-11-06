@@ -1,6 +1,6 @@
 ---
 name: Liu Haiyang
-image: images/team/portrait-1f.jpg
+image: images/team/portrait-f1.jpg
 role: phd
 affiliation: McMaster University
 aliases:
