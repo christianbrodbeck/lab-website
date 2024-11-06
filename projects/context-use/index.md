@@ -10,7 +10,7 @@ A common strategy that listeners use in such situations is to use the linguistic
 The goal of this project is developing and testing explicit models of context use in continuous speech, how context use changes with age, and how it interacts with hearing loss.
 To test these models we will collect EEG and fMRI data, together with a range of cognitive and hearing related measures.
 
-We are looking for a **full-time lab manager** to 
+We are looking for a **full-time research assistant** to 
 lead the implementation of the experiments and data collection.
 
 We are looking for **a post-doc and graduate students** interested in all aspects of this research, including:
