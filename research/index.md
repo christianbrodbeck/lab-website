@@ -15,6 +15,8 @@ nav:
 
 {% include citation.html lookup="Eelbrain, a Python toolkit for time-continuous analysis with temporal response functions" style="rich" %}
 
+{% include citation.html lookup="Recurrent neural networks as neuro-computational models" style="rich" %}
+
 {% include section.html %}
 
 ## All
