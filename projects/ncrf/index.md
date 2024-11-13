@@ -16,6 +16,11 @@ Development will primarily be using public M/EEG datasets, and provides room to 
 
 Ideal candidates should have experience and interests in the following areas: signal processing; system identification; computational neuroscience; Python development. Prior experience with MEG and/or EEG is not required but would be a strong asset.
 
-Formal announcement to follow. Feel free to reach out to us for further information (brodbecc@mcmaster.ca, proloy@stanford.edu, ppurdon@stanford.edu)
+Openings:
+
+ - The post-doctoral positions at McMaster are posted [here](https://careers.mcmaster.ca/psp/prcsprd/EMPLOYEE/HRMS/c/HRS_HRAM.HRS_APP_SCHJOB.GBL?Page=HRS_APP_JBPST&Action=U&FOCUS=Applicant&SiteId=1001&JobOpeningId=66108&PostingSeq=1)
+ - Candidates for the PhD program can reach out to me to discuss suitability (we have rolling admissions and do not get notified automatically of [formal applications](https://applygrad.mcmaster.ca/portal/start_your_app)).
+ - For a post-doctoral position at Stanford Universty, please reach out to ppurdon@stanford.edu
+
 
 This project is funded by [NIH](https://reporter.nih.gov/search/MO5MEigAnEeHz2DkOCOs0g/project-details/10864540).
