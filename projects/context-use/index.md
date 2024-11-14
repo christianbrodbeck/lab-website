@@ -22,7 +22,7 @@ Team members include Ian Bruce (McMaster), Emily Myers and Thomas Hinchey (UConn
 
 Openings:
 
-- The research assistant position is posted [here](https://careers.mcmaster.ca/psp/prcsprd/EMPLOYEE/HRMS/c/HRS_HRAM.HRS_APP_SCHJOB.GBL?Page=HRS_APP_JBPST&Action=U&FOCUS=Applicant&SiteId=1001&JobOpeningId=66171&PostingSeq=1);
+- The research assistant position is posted with [Job ID 66171](https://careers.mcmaster.ca/psp/prcsprd/EMPLOYEE/HRMS/c/HRS_HRAM.HRS_APP_SCHJOB.GBL?Page=HRS_APP_JBPST&Action=U&FOCUS=Applicant&SiteId=1001&JobOpeningId=66171&PostingSeq=1);
   this position could be ideal for a recent graduate with a Bachelor's degree who would like to gain more experience before applying for graduate school;
   the initial offer is for a year but with potential for renewal;
   please feel free to reach out with questions
