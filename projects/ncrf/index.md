@@ -19,8 +19,7 @@ Ideal candidates should have experience and interests in the following areas: si
 Openings:
 
  - The post-doctoral positions at McMaster are posted [here](https://careers.mcmaster.ca/psp/prcsprd/EMPLOYEE/HRMS/c/HRS_HRAM.HRS_APP_SCHJOB.GBL?Page=HRS_APP_JBPST&Action=U&FOCUS=Applicant&SiteId=1001&JobOpeningId=66108&PostingSeq=1)
- - Candidates for the PhD program can reach out to me to discuss suitability (we have rolling admissions and do not get notified automatically of [formal applications](https://applygrad.mcmaster.ca/portal/start_your_app)).
- - For a post-doctoral position at Stanford Universty, please reach out to ppurdon@stanford.edu
+ - Candidates for the PhD program can reach out to me to discuss suitability (we have rolling admissions and do not get notified automatically of [formal applications](https://applygrad.mcmaster.ca/portal/start_your_app))
 
 
 This project is funded by [NIH](https://reporter.nih.gov/search/MO5MEigAnEeHz2DkOCOs0g/project-details/10864540).

@@ -22,8 +22,9 @@ and neuroimaging (EEG, structural and functional MRI).
 The researchers will be part of multidisciplinary team including experts in Neuroscience, Hearing and Speech, Hearing Technology, and Aging. 
 Team members include Ian Bruce (McMaster), Emily Myers and Thomas Hinchey (UConn) and Samira Anderson (U Maryland).
 
-Formal announcements to follow. 
-Feel free to reach out if interested.
-Candidates for the PhD program can reach out to me to discuss suitability (we have rolling admissions and do not get notified automatically of [formal applications](https://applygrad.mcmaster.ca/portal/start_your_app)).
+Openings:
+
+- The research assistant position will be initially for a year but with potential for renewal [official posting](https://careers.mcmaster.ca/psp/prcsprd/EMPLOYEE/HRMS/c/HRS_HRAM.HRS_APP_SCHJOB.GBL?Page=HRS_APP_JBPST&Action=U&FOCUS=Applicant&SiteId=1001&JobOpeningId=66171&PostingSeq=1); please feel free to reach out to me with questions
+- Candidates for the PhD program can reach out to me to discuss suitability (we have rolling admissions and do not get notified automatically of [formal applications](https://applygrad.mcmaster.ca/portal/start_your_app)).
 
 This project is funded by [NIH](https://reporter.nih.gov/search/S0ABSkf4iE2GqIQnNxTKsg/project-details/10804052).
