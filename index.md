@@ -58,7 +58,7 @@ We are looking for post-docs, graduate students and a full time research assista
 
 {% capture text %}
 
-Current lab members (still under construction).
+Current lab members.
 
 {%
   include button.html

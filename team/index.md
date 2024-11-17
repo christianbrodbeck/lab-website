@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-Under construction. Check [Projects](../projects) for open positions.
+Check [Projects](../projects) for open positions.
 
 {% include section.html %}
 
