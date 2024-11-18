@@ -15,14 +15,14 @@ links:
   email: brodbecc@mcmaster.ca
 ---
 
-## Affiliations
+# Affiliations
 
  - Home department: [Computing and Software](http://cas.mcmaster.ca)
  - Member: Centre for Advanced Research in Experimental and Applied Linguistics ([ARiEAL](https://arieal.humanities.mcmaster.ca))
  - Associate member: [Neuroscience Graduate Program](https://neuroscience.mcmaster.ca)
  - Associate member: McMaster Institute for Research on Aging ([MIRA](https://mira.mcmaster.ca))
 
-## Research interests
+# Research interests
 
 When humans listen to speech, 
 the acoustic signal that enters the ears is a complex pattern of air pressure fluctuations.
