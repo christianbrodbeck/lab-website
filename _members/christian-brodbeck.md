@@ -20,6 +20,7 @@ links:
  - Home department: [Computing and Software](http://cas.mcmaster.ca)
  - Member: Centre for Advanced Research in Experimental and Applied Linguistics ([ARiEAL](https://arieal.humanities.mcmaster.ca))
  - Associate member: [Neuroscience Graduate Program](https://neuroscience.mcmaster.ca)
+ - Associate member: [Linguistics and Languages](https://linguistics.humanities.mcmaster.ca)
  - Associate member: McMaster Institute for Research on Aging ([MIRA](https://mira.mcmaster.ca))
 
 # Research interests
