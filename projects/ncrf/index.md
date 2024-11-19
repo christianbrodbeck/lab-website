@@ -18,7 +18,7 @@ Ideal candidates should have experience and interests in the following areas: si
 
 Openings:
 
- - The post-doctoral positions at McMaster are posted with [Job ID 66108](https://careers.mcmaster.ca/psp/prcsprd/EMPLOYEE/HRMS/c/HRS_HRAM.HRS_APP_SCHJOB.GBL?Page=HRS_APP_JBPST&Action=U&FOCUS=Applicant&SiteId=1001&JobOpeningId=66108&PostingSeq=1)
+ - The Post-Doctoral Fellow positions at McMaster are posted with [Job ID 66108](https://careers.mcmaster.ca/psp/prcsprd/EMPLOYEE/HRMS/c/HRS_HRAM.HRS_APP_SCHJOB.GBL?Page=HRS_APP_JBPST&Action=U&FOCUS=Applicant&SiteId=1001&JobOpeningId=66108&PostingSeq=1)
  - Candidates for the PhD program can reach out to me to discuss suitability (we have rolling admissions and do not get notified automatically of [formal applications](https://applygrad.mcmaster.ca/portal/start_your_app))
 
 
