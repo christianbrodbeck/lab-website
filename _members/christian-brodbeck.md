@@ -17,7 +17,7 @@ links:
 
 # Affiliations
 
- - Home department: [Department of Computing and Software](http://cas.mcmaster.ca)
+ - Home department: [Department of Computing and Software](https://www.eng.mcmaster.ca/cas/)
  - Member: Centre for Advanced Research in Experimental and Applied Linguistics ([ARiEAL](https://arieal.humanities.mcmaster.ca))
  - Associate member: [Neuroscience Graduate Program](https://neuroscience.mcmaster.ca)
  - Associate member: [Department of Linguistics and Languages](https://linguistics.humanities.mcmaster.ca)
