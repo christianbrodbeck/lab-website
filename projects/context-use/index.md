@@ -14,6 +14,7 @@ We are looking for a **full-time research assistant** to
 lead the implementation of the experiments and data collection. We are also looking for a **post-doc** and **graduate students** interested in all aspects of this research, including:
 implementation of computational models for context use, 
 language models and their relationship to human speech processing, 
+cognitive aging,
 auditory neuroscience,
 and neuroimaging (EEG, functional and structural MRI).
 
