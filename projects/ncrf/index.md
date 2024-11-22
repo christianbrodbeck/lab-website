@@ -8,7 +8,8 @@ The overall goal of this project is developing data analysis tools to unveil how
 The approach is based on the neuro-current response function method (introduced in [Das et al., 2020](https://doi.org/10.1016/j.neuroimage.2020.116528)). 
 Planned work includes theoretical development as well as implementation of a user-friendly analysis pipeline.
 
-The Postdoctoral Fellows will work as a part of a multidisciplinary team including researchers with Engineering, Neuroscience and Medicine background. 
+We are looking for **post-docs** and **graduate students** interested in this project.
+The trainees will work as a part of a multidisciplinary team including researchers with Engineering, Neuroscience and Medicine background. 
 Candidates will work primarily with Christian Brodbeck, PhD (McMaster), Proloy Das, PhD (Stanford) and Patrick L. Purdon, PhD (Stanford), but may also consult with a team with diverse topic interests in neuroscience, including Isabelle Buard, PhD (UofColorado), Monty Escabí, PhD (UConn) and Steven Stufflebeam, MD (MGH).
 
 We are searching for applicants interested in theory and algorithm development, as well as the development of a versatile data analysis pipeline with user-friendly front-end and documentation. 
