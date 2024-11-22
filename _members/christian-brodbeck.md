@@ -8,10 +8,10 @@ aliases:
   - C. Brodbeck
   - C Brodbeck
 links:
-  orcid: 0000-0001-8380-639X
+  cv: https://drive.google.com/file/d/1RQG5w4C2Nf9kQCQJMB5qNDg_0bKOqreD/view?usp=share_link
   github: christianbrodbeck
   google-scholar: m2x515IAAAAJ
-  cv: https://drive.google.com/file/d/1RQG5w4C2Nf9kQCQJMB5qNDg_0bKOqreD/view?usp=share_link
+  orcid: 0000-0001-8380-639X
   email: brodbecc@mcmaster.ca
 ---
 
