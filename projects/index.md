@@ -10,7 +10,7 @@ nav:
 We are looking for post-docs, graduate students (fully funded) and a full time research assistant to work on multiple projects.
 For more details, check out the featured projects with open positions.
 
-I can currently supervise graduate students in the following programs:
+I can currently supervise graduate students in:
  - [Department of Computing and Software](https://www.eng.mcmaster.ca/cas/)
  - [School of Biomedical Engineering](https://www.eng.mcmaster.ca/msbe/)
 
