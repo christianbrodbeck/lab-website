@@ -37,6 +37,10 @@
 
 
 
+
+
+
+
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <title>Brodbeck Lab</title>
@@ -90,9 +94,9 @@
 
 <!-- Font Awesome icons (load asynchronously due to size) -->
 
-<link href="https://use.fontawesome.com/releases/v6.5.0/css/all.css" rel="stylesheet" media="none" onload="this.removeAttribute('media'); this.onload = null;">
+<link href="https://use.fontawesome.com/releases/v6.7.0/css/all.css" rel="stylesheet" media="none" onload="this.removeAttribute('media'); this.onload = null;">
 <noscript>
-  <link href="https://use.fontawesome.com/releases/v6.5.0/css/all.css" rel="stylesheet">
+  <link href="https://use.fontawesome.com/releases/v6.7.0/css/all.css" rel="stylesheet">
 </noscript>
 
   <!-- third party styles -->
@@ -156,6 +160,10 @@
 
   
     <link href="/_styles/dark-toggle.css" rel="stylesheet">
+  
+
+  
+    <link href="/_styles/details.css" rel="stylesheet">
   
 
   
@@ -276,6 +284,8 @@
 
   
     <link href="/_styles/util.css" rel="stylesheet">
+  
+
   
 
   
@@ -481,9 +491,9 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
   <section class="background" data-size="page">
     <!--
-  background: ;
-  dark: ;
-  size: ;
+  <background></background>
+  <dark></dark>
+  <size></size>
 -->
 
 <div class="search-box">
@@ -493,17 +503,17 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
   </button>
 </div>
 
-<div class="tags" data-link="http://christianbrodbeck.net/blog/">
+<div class="tags" data-link="/blog/">
     
-      <a href="http://christianbrodbeck.net/blog/?search=%22tag:%20biology%22" class="tag" data-tooltip='Show items with the tag "biology"'>
+      <a href="/blog/?search=%22tag:%20biology%22" class="tag" data-tooltip='Show items with the tag "biology"'>
         biology
       </a>
     
-      <a href="http://christianbrodbeck.net/blog/?search=%22tag:%20medicine%22" class="tag" data-tooltip='Show items with the tag "medicine"'>
+      <a href="/blog/?search=%22tag:%20medicine%22" class="tag" data-tooltip='Show items with the tag "medicine"'>
         medicine
       </a>
     
-      <a href="http://christianbrodbeck.net/blog/?search=%22tag:%20big-data%22" class="tag" data-tooltip='Show items with the tag "big-data"'>
+      <a href="/blog/?search=%22tag:%20big-data%22" class="tag" data-tooltip='Show items with the tag "big-data"'>
         big-data
       </a>
     
@@ -532,10 +542,13 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
   
     
     
-      <span data-tooltip="Author">
-        <i class="icon fa-solid fa-feather-pointed"></i>
-        <span>john-doe</span>
-      </span>
+      
+      
+        <span data-tooltip="Author">
+          <i class="icon fa-solid fa-feather-pointed"></i>
+          <span>john-doe</span>
+        </span>
+      
     
   
 
@@ -552,7 +565,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
   
     <span data-tooltip="Last updated on">
       <i class="icon fa-solid fa-clock-rotate-left"></i>
-      <span>December 03, 2024</span>
+      <span>February 05, 2025</span>
     </span>
   
 </div>
@@ -561,13 +574,13 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
   
 
 
-  <div class="tags" data-link="http://christianbrodbeck.net/blog">
+  <div class="tags" data-link="/blog">
     
-      <a href="http://christianbrodbeck.net/blog?search=%22tag:%20biology%22" class="tag" data-tooltip='Show items with the tag "biology"'>
+      <a href="blog?search=%22tag:%20biology%22" class="tag" data-tooltip='Show items with the tag "biology"'>
         biology
       </a>
     
-      <a href="http://christianbrodbeck.net/blog?search=%22tag:%20medicine%22" class="tag" data-tooltip='Show items with the tag "medicine"'>
+      <a href="blog?search=%22tag:%20medicine%22" class="tag" data-tooltip='Show items with the tag "medicine"'>
         medicine
       </a>
     
@@ -579,7 +592,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
       
       
-      <p data-search="Lorem ipsum dolor sit amet  consectetur adipiscing elit  sed do eiusmod tempor incididunt ut labore et dolore magna aliqua ">
+      <p data-search="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.">
         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
       </p>
@@ -604,10 +617,13 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
   
     
     
-      <span data-tooltip="Author">
-        <i class="icon fa-solid fa-feather-pointed"></i>
-        <span>jane-smith</span>
-      </span>
+      
+      
+        <span data-tooltip="Author">
+          <i class="icon fa-solid fa-feather-pointed"></i>
+          <span>jane-smith</span>
+        </span>
+      
     
   
 
@@ -624,7 +640,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
   
     <span data-tooltip="Last updated on">
       <i class="icon fa-solid fa-clock-rotate-left"></i>
-      <span>December 03, 2024</span>
+      <span>February 05, 2025</span>
     </span>
   
 </div>
@@ -639,7 +655,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
       
       
-      <p data-search="Lorem ipsum dolor sit amet  consectetur adipiscing elit  sed do eiusmod tempor incididunt ut labore et dolore magna aliqua ">
+      <p data-search="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.">
         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
       </p>
@@ -664,10 +680,13 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
   
     
     
-      <span data-tooltip="Author">
-        <i class="icon fa-solid fa-feather-pointed"></i>
-        <span>sarah-johnson</span>
-      </span>
+      
+      
+        <span data-tooltip="Author">
+          <i class="icon fa-solid fa-feather-pointed"></i>
+          <span>sarah-johnson</span>
+        </span>
+      
     
   
 
@@ -684,7 +703,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
   
     <span data-tooltip="Last updated on">
       <i class="icon fa-solid fa-clock-rotate-left"></i>
-      <span>December 03, 2024</span>
+      <span>February 05, 2025</span>
     </span>
   
 </div>
@@ -693,17 +712,17 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
   
 
 
-  <div class="tags" data-link="http://christianbrodbeck.net/blog">
+  <div class="tags" data-link="/blog">
     
-      <a href="http://christianbrodbeck.net/blog?search=%22tag:%20biology%22" class="tag" data-tooltip='Show items with the tag "biology"'>
+      <a href="blog?search=%22tag:%20biology%22" class="tag" data-tooltip='Show items with the tag "biology"'>
         biology
       </a>
     
-      <a href="http://christianbrodbeck.net/blog?search=%22tag:%20medicine%22" class="tag" data-tooltip='Show items with the tag "medicine"'>
+      <a href="blog?search=%22tag:%20medicine%22" class="tag" data-tooltip='Show items with the tag "medicine"'>
         medicine
       </a>
     
-      <a href="http://christianbrodbeck.net/blog?search=%22tag:%20big-data%22" class="tag" data-tooltip='Show items with the tag "big-data"'>
+      <a href="blog?search=%22tag:%20big-data%22" class="tag" data-tooltip='Show items with the tag "big-data"'>
         big-data
       </a>
     
@@ -715,7 +734,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
       
       
-      <p data-search="Lorem ipsum dolor sit amet  consectetur adipiscing elit  sed do eiusmod tempor incididunt ut labore et dolore magna aliqua ">
+      <p data-search="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.">
         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
       </p>
@@ -801,7 +820,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
   </div>
 
   <div>
-    © 2024
+    © 2025
     Brodbeck Lab
       |   Built with
     <a href="https://github.com/greenelab/lab-website-template">
