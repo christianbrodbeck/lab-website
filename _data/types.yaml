@@ -14,6 +14,10 @@ phd:
   icon: fa-solid fa-graduation-cap
   description: PhD Student
 
+meng:
+  icon: fa-solid fa-graduation-cap
+  description: MEng Student
+
 msc:
   icon: fa-solid fa-graduation-cap
   description: MSc Student
