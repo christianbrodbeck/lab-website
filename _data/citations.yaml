@@ -1,5 +1,20 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1523/JNEUROSCI.1143-24.2025
+  title: 'Neural Dynamics of the Processing of Speech Features: Evidence for a Progression
+    of Features from Acoustic to Sentential Processing'
+  authors:
+  - I. M. Dushyanthi Karunathilake
+  - Christian Brodbeck
+  - Shohini Bhattasali
+  - Philip Resnik
+  - Jonathan Z. Simon
+  publisher: The Journal of Neuroscience
+  date: '2025-01-14'
+  link: https://doi.org/g88kqf
+  orcid: 0000-0001-8380-639X
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/2024.02.20.580731
   title: Recurrent neural networks as neuro-computational models of human speech recognition
   authors:
