@@ -1,6 +1,6 @@
 ---
 name: Maryam Valian
-image: https://maryamvalian.github.io/assets/img/prof_pic-480.webp
+image: https://avatars.githubusercontent.com/u/115673452?v=4
 role: phd
 affiliation: McMaster University
 aliases:
