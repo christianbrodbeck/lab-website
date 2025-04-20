@@ -23,10 +23,10 @@ I can currently supervise graduate students in:
 
 ## Featured
 
-{% include list.html component="card" data="projects" filters="group: featured" %}
+{% include list.html data="projects" component="card" filter="group == 'featured'" %}
 
 {% include section.html %}
 
 ## More
 
-{% include list.html component="card" data="projects" filters="group: " style="small" %}
+{% include list.html data="projects" component="card" filter="group != 'featured'" style="small" %}
