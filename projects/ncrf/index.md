@@ -8,7 +8,7 @@ The overall goal of this project is developing data analysis tools to unveil how
 The approach is based on the neuro-current response function method (introduced in [Das et al., 2020](https://doi.org/10.1016/j.neuroimage.2020.116528)). 
 Planned work includes theoretical development as well as implementation of a user-friendly analysis pipeline.
 
-We are looking for **post-docs** and **graduate students** interested in this project.
+We are looking for a **post-doc** and **graduate students** interested in this project.
 The trainees will work as a part of a multidisciplinary team including researchers with Engineering, Neuroscience and Medicine background. 
 Candidates will work primarily with Christian Brodbeck, PhD (McMaster), Proloy Das, PhD (Stanford) and Patrick L. Purdon, PhD (Stanford), but may also consult with a team with diverse topic interests in neuroscience, including Isabelle Buard, PhD (UofColorado), Monty Escabí, PhD (UConn) and Steven Stufflebeam, MD (MGH).
 
@@ -19,8 +19,8 @@ Ideal candidates should have experience and interests in the following areas: si
 
 Openings:
 
- - The Post-Doctoral Fellow positions at McMaster are posted with [Job ID 66108](https://careers.mcmaster.ca/psp/prcsprd/EMPLOYEE/HRMS/c/HRS_HRAM.HRS_APP_SCHJOB.GBL?Page=HRS_APP_JBPST&Action=U&FOCUS=Applicant&SiteId=1001&JobOpeningId=66108&PostingSeq=1)
- - Candidates for the PhD program can reach out to me to discuss suitability (we have rolling admissions and do not get notified automatically of [formal applications](https://applygrad.mcmaster.ca/portal/start_your_app))
+ - For more information on the Post-Doctoral Fellow position see [here](https://drive.google.com/file/d/1XKI97rm6a6jinsnX4AOLPA5ULSZl3Ta_/view?usp=sharing)
+ - Candidates interested in graduate programs can reach out to me to discuss suitability (we have rolling admissions and do not get notified automatically of [formal applications](https://applygrad.mcmaster.ca/portal/start_your_app))
 
 
 This project is funded by [NIH](https://reporter.nih.gov/search/MO5MEigAnEeHz2DkOCOs0g/project-details/10864540).

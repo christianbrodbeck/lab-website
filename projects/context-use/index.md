@@ -23,12 +23,11 @@ Team members include Ian Bruce (McMaster), Emily Myers and Thomas Hinchey (UConn
 
 Openings:
 
-- Full-time Research Assistant ([Job ID 66171](https://careers.mcmaster.ca/psp/prcsprd/EMPLOYEE/HRMS/c/HRS_HRAM.HRS_APP_SCHJOB.GBL?Page=HRS_APP_JBPST&Action=U&FOCUS=Applicant&SiteId=1001&JobOpeningId=66171&PostingSeq=1)):
-  This position could be ideal for a recent graduate with a Bachelor's degree who would like to gain more experience before applying for graduate school.
-  You will gain hands-on experience implementing and conducting hearing tests and cognitive neuroscience experiments.
-  The initial offer is for a year but with high potential for renewal.
-  Please feel free to reach out with questions
- - The Post-Doctoral Fellow position is posted with [Job ID 66366](https://careers.mcmaster.ca/psp/prcsprd/EMPLOYEE/HRMS/c/HRS_HRAM.HRS_APP_SCHJOB.GBL?Page=HRS_APP_JBPST&Action=U&FOCUS=Applicant&SiteId=1001&JobOpeningId=66366&PostingSeq=2)
-- Candidates for the PhD programs can reach out to me to discuss suitability (we have rolling admissions and do not get notified automatically of [formal applications](https://applygrad.mcmaster.ca/portal/start_your_app))
+ - Full-time Research Assistant:
+   This position could be ideal for a recent graduate, with a Bachelor's degree related to neuroscience or audiology, who would like to gain more experience before applying for graduate school.
+   You will gain hands-on experience implementing and conducting hearing tests and cognitive neuroscience experiments.
+   The initial offer is for a year but with high potential for renewal.
+   Please feel free to reach out with questions
+ - Candidates interested in graduate programs can reach out to me to discuss suitability (we have rolling admissions and do not get notified automatically of [formal applications](https://applygrad.mcmaster.ca/portal/start_your_app))
 
 This project is funded by [NIH](https://reporter.nih.gov/search/S0ABSkf4iE2GqIQnNxTKsg/project-details/10804052).
