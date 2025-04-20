@@ -20,6 +20,7 @@
 
 - title: Eelbrain
   subtitle: Open-source Python toolkit for MEG and EEG data analysis.
+  group:
   image: images/eelbrain.png
   link: http://eelbrain.readthedocs.io/
   description: Check out the recent [eLife article](https://doi.org/10.7554/eLife.85012) on TRF analysis.
