@@ -17,7 +17,7 @@ and their relationship to human speech processing,
 cognitive aging,
 and neural data (EEG, functional and structural MRI).
 
-The researchers will be part of multidisciplinary team including experts in Neuroscience, Hearing and Speech, Hearing Technology, and Aging. 
+The researcher will be part of multidisciplinary team including experts in Neuroscience, Hearing and Speech, Hearing Technology, and Aging. 
 Team members include Ian Bruce (McMaster), Emily Myers and Thomas Hinchey (UConn) and Samira Anderson (U Maryland).
 
 Openings:
