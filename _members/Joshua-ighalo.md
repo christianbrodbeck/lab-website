@@ -16,31 +16,14 @@ links:
 
 ---
 
-# Research Interests
-
 Joshua is a PhD student at McMaster University in the School of Biomedical Engineering.
-He is supervised by Dr. Christian Brodbeck.
-His research focuses on how the brain processes speech in real-world listening environments.
-This includes continuous, meaningful speech and speech presented in noisy backgrounds.
-He uses EEG and computational modeling to study how the brain tracks speech signals in real time.
-Joshua is especially interested in how these processes change with age and vary across individuals.
-His work aims to understand the neural mechanisms that support speech comprehension in both quiet and noisy conditions.
+He is supervised by Dr. Christian Brodbeck. His research focuses on how the brain processes speech in real-world environments. This includes continuous, meaningful speech and speech presented in noisy backgrounds. Using EEG and computational modeling, his work investigates how the brain tracks speech signals in real time. He is particularly interested in how these processes change with age and vary across individuals. The goal is to understand the neural mechanisms that support speech comprehension in both quiet and noisy conditions.
 
-Current areas of focus include:
+Current areas of focus include developing tools for cognitive and auditory testing.
+He is also building pipelines for EEG feature extraction, noise rejection, and decoding.
+Additional efforts explore speech comprehension and predictive processing over time.
+Background EEG activity, such as 1/f dynamics, is analyzed to better understand listening effort.
+A key objective is to create adaptive neurotechnologies for neurocognitive monitoring that are usable across all ages and cognitive profiles. There is a strong emphasis on ensuring these tools are accessible to populations historically underrepresented in neuroscience research.
 
-- Developing custom tools for cognitive and auditory testing
-- Building pipelines for EEG feature extraction, noise rejection, and decoding
-- Investigating speech comprehension and predictive processing across time
-- Analyzing background EEG activity (such as 1/f dynamics) to explore listening effort
-
-Joshua’s goal is to create adaptive neurotechnologies.
-These tools are designed to support people across a wide range of ages and cognitive profiles.
-He is especially interested in making these technologies accessible to populations often underrepresented in neuroscience research.
-
----
-
-# Background and Previous Experience
-
-Before his PhD, Joshua developed EEG-based software including algorithms and applications for assessing cognitive processing in diverse populations such as athletes, first responders, and veterans.
-His work bridges engineering and neuroscience, with a focus on practical, accessible solutions.
-These skills now support his research on speech processing and brain function.
+Before beginning the PhD, he developed EEG-based software for assessing cognitive processing in diverse populations. This included work with athletes, first responders, and veterans.
+That experience combined engineering and neuroscience with a focus on building practical, accessible solutions. Those same skills now inform ongoing research into speech processing and brain function.
