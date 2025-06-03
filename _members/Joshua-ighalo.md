@@ -1,7 +1,7 @@
 ---
 name: Joshua Ighalo  
 image: images/team/joshua-ighalo.jpg  
-role: PhD Student  
+role: phd  
 affiliation: McMaster University  
 aliases:  
   - Joshua Ighalo  
