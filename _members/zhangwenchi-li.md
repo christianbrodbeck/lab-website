@@ -7,8 +7,8 @@ aliases:
   - Zhangwenchi Li
 links:
   website: https://zhangwenchili.github.io/
-  github: https://github.com/zhangwenchili
-  linkedin: https://www.linkedin.com/in/zhangwenchi/
+  github: zhangwenchili
+  linkedin: zhangwenchi
   email:
     - li3859@mcmaster.ca
     - whitegive92@gmail.com
