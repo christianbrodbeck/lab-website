@@ -6,7 +6,6 @@
   description: Develop a tool for studying how the brain encodes complex and natural stimuli.
   tags:
     - software
-    - open positions
 
 - title: Neural Mechanisms Underlying Linguistic Context Use for Speech Processing in Aging
   subtitle:
@@ -16,7 +15,6 @@
   description: Investigate how use of context changes with age and hearing ability, using EEG and fMRI.
   tags:
     - speech perception
-    - open positions
 
 - title: Eelbrain
   subtitle: Open-source Python toolkit for MEG and EEG data analysis.
