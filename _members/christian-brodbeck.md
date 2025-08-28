@@ -23,6 +23,10 @@ links:
  - Member: Centre for Advanced Research in Experimental and Applied Linguistics ([ARiEAL](https://arieal.humanities.mcmaster.ca))
  - Associate member: McMaster Institute for Research on Aging ([MIRA](https://mira.mcmaster.ca))
 
+I currently supervise graduate students in:
+ - [Department of Computing and Software](https://www.eng.mcmaster.ca/cas/)
+ - [School of Biomedical Engineering](https://www.eng.mcmaster.ca/msbe/)
+
 
 # Research interests
 
