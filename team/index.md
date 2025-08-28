@@ -11,8 +11,7 @@ nav:
 
 {% include list.html data="members" component="portrait" filter="role =~ /^pi$/ && group != 'alum'" %}
 {% include list.html data="members" component="portrait" filter="role =~ /^postdoc$/ && group != 'alum'" %}
-{% include list.html data="members" component="portrait" filter="role =~ /^phd$/ && group != 'alum'" %}
-{% include list.html data="members" component="portrait" filter="role =~ /^(msc|masc|meng)$/ && group != 'alum'" %}
+{% include list.html data="members" component="portrait" filter="role =~ /^(phd|msc|masc|meng)$/ && group != 'alum'" %}
 {% include list.html data="members" component="portrait" filter="role =~ /^undergrad$/ && group != 'alum'" %}
 
 {% include section.html %}
