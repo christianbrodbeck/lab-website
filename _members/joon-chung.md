@@ -2,6 +2,7 @@
 name: Joon Chung
 image: images/team/joon-chung.jpg
 role: undergrad
+group: alum
 affiliation: McMaster University
 aliases:
   - Joon Chung

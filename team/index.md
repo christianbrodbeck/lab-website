@@ -7,14 +7,18 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-Check [Projects](../projects) for open positions.
+{% include section.html %}
+
+{% include list.html data="members" component="portrait" filter="role =~ /^pi$/ && group != 'alum'" %}
+{% include list.html data="members" component="portrait" filter="role =~ /^postdoc$/ && group != 'alum'" %}
+{% include list.html data="members" component="portrait" filter="role =~ /^phd$/ && group != 'alum'" %}
+{% include list.html data="members" component="portrait" filter="role =~ /^(msc|masc|meng)$/ && group != 'alum'" %}
+{% include list.html data="members" component="portrait" filter="role =~ /^undergrad$/ && group != 'alum'" %}
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filter="role == 'pi'" %}
-{% include list.html data="members" component="portrait" filter="role == 'postdoc'" %}
-{% include list.html data="members" component="portrait" filter="role == 'phd'" %}
-{% include list.html data="members" component="portrait" filter="role == 'msc'" %}
-{% include list.html data="members" component="portrait" filter="role == 'masc'" %}
-{% include list.html data="members" component="portrait" filter="role == 'meng'" %}
-{% include list.html data="members" component="portrait" filter="role == 'undergrad'" %}
+## Alumni
+
+{% include list.html data="members" component="portrait" filter="group == 'alum'" %}
+
+{% include section.html %}
