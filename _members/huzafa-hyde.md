@@ -6,7 +6,7 @@ affiliation: McMaster University
 aliases:
   - Huzafa Hyde
 links:
-  website: https://github.com/huzafahyde
+  github: huzafahyde
 ---
 
 I am a second-year MASc BME student at McMaster who is interested in Neuro-Current Response Functions and how they can be used alongside EEG/MEG to predict brain responses to varying stimuli.
