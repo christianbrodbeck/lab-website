@@ -22,7 +22,7 @@ msc:
   icon: fa-solid fa-graduation-cap
   description: MSc Student
 
-MASc:
+masc:
   icon: fa-solid fa-graduation-cap
   description: MASc Student
 
