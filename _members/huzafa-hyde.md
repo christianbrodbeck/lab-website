@@ -1,7 +1,7 @@
 ---
 name: Huzafa Hyde
 image: images/team/huzafa-hyde.jpg
-role: MASc
+role: masc
 affiliation: McMaster University
 aliases:
   - Huzafa Hyde
