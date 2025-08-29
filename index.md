@@ -33,7 +33,7 @@ Browse published papers and preprints.
 
 {% capture text %}
 
-We are looking for post-docs, graduate students and a full time research assistant to work on multiple projects.
+Major projects the lab is working on.
 
 {%
   include button.html
@@ -50,7 +50,7 @@ We are looking for post-docs, graduate students and a full time research assista
   include feature.html
   image="images/Projects.jpg"
   link="projects"
-  title="Projects and Open Positions"
+  title="Projects"
   flip=true
   style="bare"
   text=text
