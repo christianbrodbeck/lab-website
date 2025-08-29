@@ -16,6 +16,6 @@ nav:
 
 ## Alumni
 
-{% include list.html data="members" component="portrait" filter="group == 'alum'" %}
+{% include list.html data="members" component="portrait" filter="group == 'alum'" style="small" %}
 
 {% include section.html %}
