@@ -38,6 +38,10 @@ mascot:
   icon: fa-solid fa-dog
   description: Mascot
 
+ra:
+  icon: fa-solid fa-laptop-code
+  description: Research Assistant
+
 # general
 
 link:
