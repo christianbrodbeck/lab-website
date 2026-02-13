@@ -7,7 +7,7 @@ aliases:
   - Samira Saljoughi
 links:
   github: Samira-s
-  linkedin: https://www.linkedin.com/in/samira-saljoughi
+  linkedin: samira-saljoughi
 ---
 
 I am a first-year MASc student in Biomedical Engineering at McMaster University, working in cognitive and computational neuroscience of speech. 
