@@ -96,8 +96,10 @@ Learn about our current studies and consent forms.
 
 {%
   include feature.html
-  image="images/studies.jpg"
+  image="images/studies.png"
   link="studies"
   title="Participate in Research"
+  flip=true
+  style="bare"
   text=text
 %}
