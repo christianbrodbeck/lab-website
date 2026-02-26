@@ -78,3 +78,26 @@ Current lab members.
   title="Our Team"
   text=text
 %}
+
+{% capture text %}
+
+Learn about our current studies and consent forms.
+
+{%
+  include button.html
+  link="studies"
+  text="Studies"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/studies.jpg"
+  link="studies"
+  title="Participate in Research"
+  text=text
+%}
