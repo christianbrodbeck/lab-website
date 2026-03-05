@@ -85,8 +85,8 @@ Learn about our current studies and consent forms.
 
 {%
   include button.html
-  link="studies"
-  text="Studies"
+  link="participate"
+  text="Participate"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -96,8 +96,8 @@ Learn about our current studies and consent forms.
 
 {%
   include feature.html
-  image="images/studies.png"
-  link="studies"
+  image="images/participate.png"
+  link="participate"
   title="Participate in Research"
   flip=true
   style="bare"

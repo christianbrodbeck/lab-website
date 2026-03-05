@@ -1,14 +1,14 @@
 ---
-title: Studies
+title: Participate
 nav:
   order: 3
   tooltip: Letter of information and details
 ---
 
-# {% include icon.html icon="fa-solid fa-flask" %}Studies
+# {% include icon.html icon="fa-solid fa-flask" %}Participate
 
 {% include section.html %}
 
-{% include list.html data="studies" component="card"%}
+{% include list.html data="participate" component="card"%}
 
 {% include section.html %}
