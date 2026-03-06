@@ -1,6 +1,13 @@
-- title: Neural and cognitive basis of speech comprehension
+- title: Neural and Cognitive Basis of Speech Comprehension
   subtitle:
-  group: 
+  group: studies
   image: images/context.jpg
   link: participate/context-use
   description: Investigate how the brain processes speech, and how it deals with background noise when listening to speech. 
+
+- title: Binaural Cues in Speech Comprehension
+  subtitle:
+  group: studies
+  image: images/binaural.png
+  link: participate/context-use
+  description: Explore how the brain uses binaural cues to separate and understand speech from competing speakers.
