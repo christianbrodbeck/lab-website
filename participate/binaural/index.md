@@ -2,7 +2,7 @@
 title: Binaural
 ---
 
-# {% include icon.html icon="fa-solid fa-slask" %}Binaural cues in Speech Comprehension
+# {% include icon.html icon="fa-solid fa-slask" %}Binaural Cues in Speech Comprehension
 
 This webpage provides general information about the study and the research methods used in **Binaural cues in Speech Comprehension**. Full study details, eligibility criteria, and consent/Letter of Information documents are provided:
 
