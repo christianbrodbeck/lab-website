@@ -1,7 +1,7 @@
 ---
 name: Nigel Flower
 image: images/team/nigel_flower.jpg  
-role: postdoctoral fellow
+role: postdoc
 affiliation: McMaster University
 aliases:
     - Nigel Flower
