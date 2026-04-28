@@ -65,15 +65,15 @@ For more information, see [the Wikipedia page on the Cocktail Party Effect](http
 
 ---
 
-### What are behavioural tests?
+<!-- ### What are behavioural tests?
 
 - Behavioural tests are tasks where participants listen, respond, or make decisions.  
 - These tests help researchers understand speech perception, attention, memory, and response speed.  
 - They are widely used in cognitive and neuroscience research.  
 
-For more information, see [the Wikipedia page on Neuropsychological Testing](https://en.wikipedia.org/wiki/Neuropsychological_test).
+For more information, see [the Wikipedia page on Neuropsychological Testing](https://en.wikipedia.org/wiki/Neuropsychological_test). -->
 
----
+<!-- ---
 
 ### What are brain signals?
 
@@ -82,9 +82,9 @@ For more information, see [the Wikipedia page on Neuropsychological Testing](htt
 
 For more information, see [the Wikipedia page on Electroencephalography (EEG)](https://en.wikipedia.org/wiki/Electroencephalography).
 
----
+--- -->
 
-### What is fMRI?
+<!-- ### What is fMRI?
 
 - fMRI (functional magnetic resonance imaging) measures changes in blood flow in the brain when doing a certain kind of task.  
 - It helps researchers identify which brain regions are involved in tasks such as speech understanding.  
@@ -92,7 +92,7 @@ For more information, see [the Wikipedia page on Electroencephalography (EEG)](h
 
 For more information, see [the Wikipedia page on Functional Magnetic Resonance Imaging (fMRI)](https://en.wikipedia.org/wiki/Functional_magnetic_resonance_imaging).
 
----
+--- -->
 
 ### Are these methods safe?
 

@@ -39,14 +39,14 @@ For more information, see [the Wikipedia page on Sound Localization](https://en.
 
 ---
 
-### What are brain signals?
+<!-- ### What are brain signals?
 
 - Brain cells communicate with each other using small electrical signals.  
 - EEG records large-scale patterns of this activity.  
 
 For more information, see [the Wikipedia page on Electroencephalography (EEG)](https://en.wikipedia.org/wiki/Electroencephalography).
 
----
+--- -->
 
 ### Are these methods safe?
 

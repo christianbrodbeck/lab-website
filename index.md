@@ -110,7 +110,7 @@ How we study the brain.
 
 {%
   include button.html
-  link="mthods"
+  link="methods"
   text="Methods"
   icon="fa-solid fa-arrow-right"
   style="bare"
