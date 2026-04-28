@@ -52,6 +52,8 @@ For more information, see [the Wikipedia page on Electroencephalography (EEG)](h
 
 EEG tasks are non-invasive and commonly used in research. Participants are allowed to take breaks and stop at any time.
 
+Please see the [Methods section]({{ "/methods/" | relative_url }}) for more information on EEG.
+
 <!-- section break -->
 
 ## Interested in participating?

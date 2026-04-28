@@ -98,6 +98,8 @@ For more information, see [the Wikipedia page on Functional Magnetic Resonance I
 
 EEG and behavioural tasks are non-invasive and commonly used in research. fMRI does not involve radiation. Participants are allowed to take breaks and stop at any time.
 
+Please see the [Methods section]({{ "/methods/" | relative_url }}) for more information on the techniques used in this research.
+
 <!-- section break -->
 
 ## Interested in participating?
