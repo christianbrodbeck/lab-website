@@ -65,7 +65,6 @@ Learn about our current studies and consent forms.
   link="participate"
   text="Participate"
   icon="fa-solid fa-arrow-right"
-  flip=true
   style="bare"
 %}
 
@@ -73,10 +72,9 @@ Learn about our current studies and consent forms.
 
 {%
   include feature.html
-  image="images/participate.png"
+  image="images/participate.jpeg"
   link="participate"
   title="Participate in Research"
-  flip=true
   style="bare"
   text=text
 %}
@@ -90,6 +88,7 @@ How we study the brain.
   link="methods"
   text="Methods"
   icon="fa-solid fa-arrow-right"
+  flip=true
   style="bare"
 %}
 
@@ -100,6 +99,7 @@ How we study the brain.
   image="images/methods.JPG"
   link="methods"
   title="Methods and Techniques"
+  flip=true
   style="bare"
   text=text
 %}
@@ -113,7 +113,6 @@ Current lab members.
   link="team"
   text="Team"
   icon="fa-solid fa-arrow-right"
-  flip=true
   style="bare"
 %}
 
