@@ -103,3 +103,26 @@ Learn about our current studies and consent forms.
   style="bare"
   text=text
 %}
+
+{% capture text %}
+
+How we study the brain.
+
+{%
+  include button.html
+  link="mthods"
+  text="Methods"
+  icon="fa-solid fa-arrow-right"
+  style="bare"
+%}
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/methods.png"
+  link="methods"
+  title="Methods and Techniques"
+  style="bare"
+  text=text
+%}
