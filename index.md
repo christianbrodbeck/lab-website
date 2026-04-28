@@ -58,29 +58,6 @@ Major projects the lab is working on.
 
 {% capture text %}
 
-Current lab members.
-
-{%
-  include button.html
-  link="team"
-  text="Team"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/Team.jpg"
-  link="team"
-  title="Our Team"
-  text=text
-%}
-
-{% capture text %}
-
 Learn about our current studies and consent forms.
 
 {%
@@ -120,9 +97,32 @@ How we study the brain.
 
 {%
   include feature.html
-  image="images/methods.png"
+  image="images/methods.JPG"
   link="methods"
   title="Methods and Techniques"
   style="bare"
+  text=text
+%}
+
+{% capture text %}
+
+Current lab members.
+
+{%
+  include button.html
+  link="team"
+  text="Team"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/Team.jpg"
+  link="team"
+  title="Our Team"
   text=text
 %}
