@@ -6,7 +6,7 @@ title: Binaural
 
 This webpage provides general information about the study and the research methods used in **Binaural cues in Speech Comprehension**. Full study details, eligibility criteria, and consent/Letter of Information documents are provided:
 
-- [Bineural — Letter of Information & Consent (placeholder)]({{ "docs/binaural/Consent1.pdf" | relative_url }})
+- [Binaural — Letter of Information & Consent (placeholder)]({{ "docs/binaural/Consent1.pdf" | relative_url }})
 
 <!-- section break -->
 

@@ -17,7 +17,7 @@ For more information, see [the Wikipedia page on Neuropsychological Testing](htt
 
 <!-- section break -->
 
-## What are brain signals?
+## What is EEG?
 
 - Brain cells communicate with each other using small electrical signals.  
 - EEG (Electroencephalography) records large-scale patterns of this activity through the scalp.  
