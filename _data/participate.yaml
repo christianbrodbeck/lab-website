@@ -5,9 +5,9 @@
 #   link: participate/context-use
 #   description: Investigate how the brain processes speech, and how it deals with background noise when listening to speech. 
 
-- title: Binaural Cues in Speech Comprehension
+- title: Speech Comprehension in Noisy Environments
   subtitle:
   group: featured
   image: images/binaural.png
   link: participate/binaural
-  description: Explore how the brain uses binaural cues to separate and understand speech from competing speakers.
+  description: Explore how the brain separates and understands speech when there are competing speakers in the background.

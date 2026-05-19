@@ -2,11 +2,11 @@
 title: Binaural
 ---
 
-# {% include icon.html icon="fa-solid fa-slask" %}Binaural Cues in Speech Comprehension
+# {% include icon.html icon="fa-solid fa-slask" %}Speech Comprehension in Noisy Environments
 
-This webpage provides general information about the study and the research methods used in **Binaural cues in Speech Comprehension**. Full study details, eligibility criteria, and consent/Letter of Information documents are provided:
+This webpage provides general information about the study and the research methods used in **Speech Comprehension in Noisy Environments**. Full study details, eligibility criteria, and consent/Letter of Information documents are provided:
 
-- [Binaural — Letter of Information & Consent (placeholder)]({{ "docs/binaural/Consent1.pdf" | relative_url }})
+- [Speech Comprehension — Letter of Information & Consent (placeholder)]({{ "docs/binaural/Consent1.pdf" | relative_url }})
 
 <!-- section break -->
 
