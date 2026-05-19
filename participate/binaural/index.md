@@ -13,9 +13,9 @@ This webpage provides general information about the study and the research metho
 ## Project Overview
 This study investigates how the brain separates and understands speech when multiple people are talking at the same time. In everyday environments such as restaurants or crowded spaces, our brains must focus on one speaker while ignoring others. This research examines how spatial hearing cues help the brain separate competing speech signals. 
 
-<div style="text-align: center;">
+<!-- <div style="text-align: center;">
   <img src="{{ "/images/binaural/sound-loc.png" | relative_url }}" width="600">
-</div>
+</div> -->
 
 <!-- section break -->
 
@@ -23,7 +23,7 @@ This study investigates how the brain separates and understands speech when mult
 During the study, you will wear a comfortable EEG cap that records your brain activity while you listen to audiobook stories through earphones. In some parts of the experiment you will hear a single speaker, while in others you will hear two speakers (a male and a female narrator) at the same time. You will be asked to focus on one speaker and follow the story while ignoring the other. After each listening segment, you will answer a few comprehension questions about the story you attended to.
 
 <div style="text-align: center;">
-  <img src="{{ "/images/binaural/EEG.png" | relative_url }}" width="600">
+  <img src="{{ "/images/binaural/EEG-pilot.jpeg" | relative_url }}" width="600">
 </div>
 
 <!-- section break -->
