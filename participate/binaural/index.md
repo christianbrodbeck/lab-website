@@ -1,5 +1,5 @@
 ---
-title: Binaural
+title: Speech-Comprehension
 ---
 
 # {% include icon.html icon="fa-solid fa-slask" %}Speech Comprehension in Noisy Environments
@@ -23,7 +23,7 @@ This study investigates how the brain separates and understands speech when mult
 During the study, you will wear a comfortable EEG cap that records your brain activity while you listen to audiobook stories through earphones. In some parts of the experiment you will hear a single speaker, while in others you will hear two speakers (a male and a female narrator) at the same time. You will be asked to focus on one speaker and follow the story while ignoring the other. After each listening segment, you will answer a few comprehension questions about the story you attended to.
 
 <div style="text-align: center;">
-  <img src="{{ "/images/binaural/EEG-pilot.jpeg" | relative_url }}" width="600">
+  <img src="{{ "/images/speech-comprehension/EEG-pilot.jpeg" | relative_url }}" width="600">
 </div>
 
 <!-- section break -->
