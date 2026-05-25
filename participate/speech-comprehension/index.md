@@ -45,6 +45,7 @@ For more information, see [the Wikipedia page on Sound Localization](https://en.
 - The “cocktail party effect” describes how the brain can focus on one voice or sound even when there’s a lot of noise around. 
 
 For more information, see [the Wikipedia page on the Cocktail Party Effect](https://en.wikipedia.org/wiki/Cocktail_party_effect) or visit [The Cocktail Party Explained](https://speechneurolab.ca/en/the-cocktail-party-explained/).
+
 ---
 
 <!-- ### What are brain signals?
