@@ -25,6 +25,10 @@ For more information, see [the Wikipedia page on Neuropsychological Testing](htt
 
 For more information, see [the Wikipedia page on Electroencephalography (EEG)](https://en.wikipedia.org/wiki/Electroencephalography).
 
+<div style="text-align: center;">
+  <img src="{{ "/images/speech-comprehension/EEG-pilot.jpeg" | relative_url }}" width="600">
+</div>
+
 ---
 
 <!-- section break -->

@@ -30,13 +30,21 @@ During the study, you will wear a comfortable EEG cap that records your brain ac
 
 ## Learn More
 
-### What are binaural cues?
+<!-- ### What are binaural cues?
 
 - Binaural cues are spatial hearing cues that arise from differences in the timing and loudness of sounds reaching the two ears.  
 - These differences, known as interaural time differences (ITDs) and interaural level differences (ILDs), help the auditory system determine the location of sound sources and distinguish between competing speakers.
 
-For more information, see [the Wikipedia page on Sound Localization](https://en.wikipedia.org/wiki/Sound_localization).
+For more information, see [the Wikipedia page on Sound Localization](https://en.wikipedia.org/wiki/Sound_localization). -->
 
+
+### What do we mean by “speech perception in noise”?
+
+- These are conversations that take place in everyday situations, like restaurants or parties.  
+- Background sounds can make it harder to understand what someone is saying.  
+- The “cocktail party effect” describes how the brain can focus on one voice or sound even when there’s a lot of noise around. 
+
+For more information, see [the Wikipedia page on the Cocktail Party Effect](https://en.wikipedia.org/wiki/Cocktail_party_effect) or visit [The Cocktail Party Explained](https://speechneurolab.ca/en/the-cocktail-party-explained/).
 ---
 
 <!-- ### What are brain signals?
