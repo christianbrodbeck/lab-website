@@ -58,6 +58,54 @@ Major projects the lab is working on.
 
 {% capture text %}
 
+Learn about our current studies and consent forms.
+
+{%
+  include button.html
+  link="participate"
+  text="Participate"
+  icon="fa-solid fa-arrow-right"
+  style="bare"
+%}
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/participate.jpeg"
+  link="participate"
+  title="Participate in Research"
+  style="bare"
+  text=text
+%}
+
+{% capture text %}
+
+How we study the brain.
+
+{%
+  include button.html
+  link="methods"
+  text="Methods"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/methods.JPG"
+  link="methods"
+  title="Methods and Techniques"
+  flip=true
+  style="bare"
+  text=text
+%}
+
+{% capture text %}
+
 Current lab members.
 
 {%
@@ -65,7 +113,6 @@ Current lab members.
   link="team"
   text="Team"
   icon="fa-solid fa-arrow-right"
-  flip=true
   style="bare"
 %}
 

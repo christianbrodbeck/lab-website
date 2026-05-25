@@ -10,6 +10,9 @@ nav:
 
 {% include tags.html tags="software, speech perception" %}
 
+Interested in participating in our research?  
+Please see the [Participate section]({{ "/participate/" | relative_url }}) for more information.
+
 {% include search-info.html %}
 
 {% include section.html %}
