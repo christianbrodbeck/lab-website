@@ -2,6 +2,7 @@
 name: Bo Liang
 image: images/team/BoLiang.jpeg
 role: meng
+group: alum
 affiliation: McMaster University
 aliases:
   - Bo Liang

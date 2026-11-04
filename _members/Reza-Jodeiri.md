@@ -1,7 +1,7 @@
 ---
 name: Reza Jodeiri
 image: images/team/RezaJodeiri.jpeg
-role: undergrad
+role: phd
 affiliation: McMaster University
 aliases:
   - Reza Jodeiri
