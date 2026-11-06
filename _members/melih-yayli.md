@@ -9,8 +9,7 @@ links:
   website: https://yaylim.github.io/
   github: yaylim
   linkedin: yayli-melih
-  email:
-    - yaylim@mcmaster.ca
+  email: yaylim@mcmaster.ca
 ---
 
 I am a postdoctoral researcher in the Department of Computing and Software at McMaster University, working on computational approaches to understanding how the brain processes speech. My current research focuses on using neuro-current response functions (NCRFs) to investigate cortical representations of speech and other complex auditory stimuli using magnetoencephalography (MEG). I am particularly interested in developing computational methods and open-source tools for analyzing neural responses to naturalistic stimuli and understanding how different levels of auditory information are represented in the brain.
