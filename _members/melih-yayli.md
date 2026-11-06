@@ -1,7 +1,7 @@
 ---
 name: Melih Yayli
 image: images/team/melih-yayli.jpg  
-role: postdoctoral fellow
+role: postdoc
 affiliation: McMaster University  
 aliases:
   - melih
