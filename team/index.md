@@ -9,7 +9,9 @@ nav:
 
 {% include list.html data="members" component="portrait" filter="role =~ /^pi$/ && group != 'alum'" %}
 {% include list.html data="members" component="portrait" filter="role =~ /^postdoc$/ && group != 'alum'" %}
-{% include list.html data="members" component="portrait" filter="role =~ /^(phd|msc|masc|meng)$/ && group != 'alum'" %}
+{% include list.html data="members" component="portrait" filter="role =~ /^phd$/ && group != 'alum'" %}
+{% include list.html data="members" component="portrait" filter="role =~ /^(msc|masc)$/ && group != 'alum'" %}
+{% include list.html data="members" component="portrait" filter="role =~ /^meng$/ && group != 'alum'" %}
 {% include list.html data="members" component="portrait" filter="role =~ /^ra$/ && group != 'alum'" %}
 {% include list.html data="members" component="portrait" filter="role =~ /^undergrad$/ && group != 'alum'" %}
 
